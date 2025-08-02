@@ -154,4 +154,3 @@ MIT License. Free to use, fork, and build upon.
 
 ---
 
-Let me know if you'd like this `README.md` converted into a downloadable file or added to the canvas.
